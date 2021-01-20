@@ -1,0 +1,10 @@
+[
+	{
+	"prompts" : ["name", "noun", "adverb", "adjective"],
+	"story" : "Once upon a time %s watched %s and %s it was the %s movie of the last two decades."
+	},
+	{
+	"prompts" : ["name", "noun", "adjective", "another name", "another adjective"],
+	"story" : "%s once went to %s, which was %s. Later, %s joined in and it was %s."
+	}
+]
